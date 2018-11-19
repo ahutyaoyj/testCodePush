@@ -1,0 +1,6 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">Y6NuLI7dXt435wELQio2IPsPpv-t3b84756f-b8ff-42a6-9be6-2eadc9c9f5bb</string>
+    <string name="app_name">TestCodePush</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true">ALWAYS_SEND</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true">ALWAYS_SEND</string>
+</resources>
